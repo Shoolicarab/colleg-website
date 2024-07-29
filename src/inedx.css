@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Slab:wght@100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Kalnia+Glaze:wght@100..700&family=Oswald:wght@200..700&family=Roboto+Slab:wght@100..900&display=swap');
 *{
     margin: 0%;
     padding: 0%;
@@ -32,4 +31,8 @@ padding-right: 10%;
     cursor: pointer;
     border: 0;
     outline:0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
 }

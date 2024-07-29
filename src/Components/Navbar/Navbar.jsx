@@ -12,8 +12,8 @@ function Navbar() {
         <img  src={LOGO} alt="" className='LOGO'/>
     <ul>
         <li>Home</li>
+        <li>Programs</li>
         <li>About Us</li>
-        <li>Courses</li>
         <li>Campus</li>
         <li>Testimonials</li>
         <li><botton className='btn'>Contact Us</botton></li>

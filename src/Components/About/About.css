@@ -1,0 +1,26 @@
+.About{
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:90%;
+
+}
+.About-left{
+    flex-basis: 40%;
+    position: relative;
+}
+.About-right{
+    flex-basis:56%;
+}
+.About img{
+    width:100%;
+    border-radius:10px;
+}
+.playicon{
+    width:60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

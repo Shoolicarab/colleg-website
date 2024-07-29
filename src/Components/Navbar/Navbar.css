@@ -1,6 +1,6 @@
 nav{
     width:100%;
-    /* background: #333; */
+     /* background: #333;  */
     color: #fff;
     padding: 4px 0;
     position: fixed;
@@ -14,7 +14,7 @@ nav{
 }
 
 .LOGO{
-    width: 180px;
+    width: 120px;
 }
 nav ul li{
     display:inline-block;
@@ -23,7 +23,7 @@ nav ul li{
     font-size:16px;
 
 }
-
+/* 
 .btn{
     background: #FFF;
     color: #212121;
@@ -33,4 +33,4 @@ nav ul li{
     cursor: pointer;
     border: 0;
     outline:0;
-}
+} */
