@@ -2,13 +2,12 @@
 import React from 'react'
 import './Title.css'
 
-function Title({subTitle,Title}) {
+const Title = ({subTitle,Title}) => {
   return (
     <div className='Title'>
-       
-    <p>{subTitle}</p>
+     
+     <p>{subTitle}</p>
     <p>{Title}</p>
-
     </div>
   )
 }

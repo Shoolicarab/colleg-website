@@ -6,7 +6,8 @@ import program3 from '../../../Asset/program3.png'
 import programicon1 from '../../../Asset/programicon1.png'
 import programicon2 from '../../../Asset/programicon2.png'
 import programicon3 from '../../../Asset/programicon3.png'
-function Programs() {
+
+const Programs = () => {
   return (
     <div className=' '>
      <div className="program"> 
@@ -30,7 +31,8 @@ function Programs() {
        <p>Graduation Degree</p>
        </div> 
  </div>  
-  </div>
+
+    </div>
   )
 }
 

@@ -2,10 +2,11 @@ import React from 'react'
 import './About.css'
 import about from '../../../Asset/about.png'
 import playicon from '../../../Asset/playicon.png'
-function About() {
+
+const About = () => {
   return (
     <div className='About'>
-     <div className="About-left">
+   <div className="About-left">
       <img src={about} alt="" />
       <img src={playicon }alt="" />
         </div>  
@@ -20,7 +21,7 @@ function About() {
                  Quibusdam, nobis veniam.</p>
 
         </div> 
-        </div>
+    </div>
   )
 }
 

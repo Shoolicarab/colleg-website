@@ -8,7 +8,7 @@ nav{
     left:0;
     display:flex;
     align-items:center;
-    justify-content: space-between;
+    justify-content:space-between;
     z-index:10;
 
 }
@@ -23,14 +23,7 @@ nav ul li{
     font-size:16px;
 
 }
-/* 
-.btn{
-    background: #FFF;
-    color: #212121;
-    padding: 14px 25px;
-    font-size: 16px;
-    border-radius: 30px;
-    cursor: pointer;
-    border: 0;
-    outline:0;
-} */
+.dark-nav{
+    background: #212EA0;
+    transition: 0.5s;
+}
